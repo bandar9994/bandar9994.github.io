@@ -1,6 +1,6 @@
-# Balimda website
+# Najwa AI website
 
-The public website for **Balimda by Bandar Altariqi**, published with GitHub Pages at https://bandar9994.github.io/.
+The public website for **Najwa AI by Bandar Altariqi**, published with GitHub Pages at https://bandar9994.github.io/.
 
 - `index.html`: home page
 - `privacy.html`: privacy policy (linked from Google's sign-in screen)
